@@ -1,0 +1,6 @@
+export {default as horiseon}from "./projects/horiseon.png"
+export {default as portfolio}from "./projects/portfolio.png"
+export {default as employeePtracker}from "./projects/employeePtracker.png"
+export {default as myBlog}from "./projects/myBlog.png"
+export {default as TaskBoard}from "./projects/TaskBoard.png"
+export {default as weatherDash}from "./projects/weatherDash.png"

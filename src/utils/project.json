@@ -1,0 +1,45 @@
+
+[
+   {
+     "name": "Horiseon",
+     "description": "The goal of this project is to practice and gain knowledge of writing HTML with structured and semantic.",
+     "link": "https://pandord24.github.io/Horiseon/",
+     "repo": "https://github.com/pandord24/Horiseon/",
+     "image": "horiseon"
+   },
+   {
+     "name": "Portfolio",
+     "description": "The goal of this project is to showcaswe my html and css skill I learnt from the first week.",
+     "link": "https://pandord24.github.io/portfolio/",
+     "repo": "https://github.com/pandord24/portfolio",
+     "image": "portfolio"
+   },
+   {
+    "name": "employee-payroll-tracker",
+    "description": "Enables a payroll manager to view and manage employee payroll data.",
+    "link": "https://pandord24.github.io/employee-payroll-tracker/",
+    "repo": "https://github.com/pandord24/employee-payroll-tracker",
+    "image": "employeePtracker"
+  },
+  {
+    "name": "my-blog",
+    "description": "User can input and view blog posts.",
+    "link": "https://pandord24.github.io/my-blog/",
+    "repo": "https://github.com/pandord24/my-blog",
+    "image": "myBlog"
+  },
+  {
+    "name": "Task Board",
+    "description": "The goal of this project is to allows a team to manage project tasks by modifying starter code.",
+    "link": "https://pandord24.github.io/Task-Board/",
+    "repo": "https://github.com/pandord24/Task-Board",
+    "image": "TaskBoard"
+  },
+  {
+    "name": "weather-dashboard",
+    "description": "A weather dashboard that will run in the browser and feature dynamically updated HTML and CSS",
+    "link": "https://pandord24.github.io/weather-dashboard/",
+    "repo": "https://github.com/pandord24/weather-dashboard",
+    "image": "weatherDash"
+  }
+ ]
